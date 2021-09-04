@@ -28,8 +28,8 @@ public class AwscdkApp {
                 // want to deploy the stack to.
                 
                 .env(Environment.builder()
-                        .account("428996551227")
-                        .region("ap-south-1")
+                        .account("Your account number")
+                        .region("Specify Region Here")
                         .build())
                 
 
