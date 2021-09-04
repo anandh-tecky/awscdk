@@ -1,6 +1,6 @@
 # Welcome to your CDK Java project!
 
-This is a blank project for Java development with CDK.
+Deploying aws resources with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
